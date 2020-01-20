@@ -1,1 +1,3 @@
 1. The more I learn about development, the more I see that everything is connected.
+2. When in doubt, look to the documentation when developing. 
+3. Don't try to memorize everything, get down the main concepts and know how to look things up.
