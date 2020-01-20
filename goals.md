@@ -5,6 +5,8 @@
 - HTML
 - CSS
 - JavaScript
+- Python
+- Git
 
 ## Intermediate Skills
 
