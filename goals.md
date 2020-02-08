@@ -7,6 +7,8 @@
 - JavaScript
 - Python
 - Git
+- Linux
+- Docker
 
 ## Intermediate Skills
 
